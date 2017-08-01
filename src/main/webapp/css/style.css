@@ -6,7 +6,7 @@ body {
 }
 #background {
 	background: url(../images/bg-pattern.jpg) repeat-x center top;
-	min-height: 1318px;
+	min-height: 1000px;
 }
 #page {
 	width: 960px;
